@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hoseinkasiri/">LinkedIn</a> •
-  <a href="Kasiri.Dev@gmail.com">Email</a>
+  <a href="mailto:Kasiri.Dev@gmail.com">Email</a>
 </p>
 
 ---
